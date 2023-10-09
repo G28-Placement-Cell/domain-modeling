@@ -1,5 +1,5 @@
 # domain-modeling
-## We've made 5 models for domain modeling:
+## We've made these models for domain modeling:
 ### FR & NRF
 - Done by: All
 ### UCs/USs
